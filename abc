@@ -1,0 +1,7 @@
+import pyautogui
+
+pyautogui.click(1410,40)
+pyautogui.click(405,40)
+import time;time.sleep(3)
+pyautogui.click(1410,40)
+pyautogui.click(405,40)
